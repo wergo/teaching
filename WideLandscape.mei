@@ -5,7 +5,7 @@
    <meiHead xml:id="m1k4wfja">
       <fileDesc xml:id="f1ipgnvn">
          <titleStmt xml:id="t1vkdbzm">
-            <title xml:id="tikzqcf"/>
+            <title xml:id="tikzqcf">Weite Landschaft</title>
             <respStmt xml:id="rva4mpw1"/>
          </titleStmt>
          <pubStmt xml:id="p19o1gix">
@@ -68,19 +68,22 @@
          <mdiv xml:id="seadhjl">
             <score xml:id="tjwy1zj">
                <scoreDef xml:id="ueiaplr">
-                  <staffGrp xml:id="xtg60a1" bar.thru="true" symbol="brace">
-                     <staffDef xml:id="P1" lines="5" n="1" ppq="2">
-                        <instrDef xml:id="yn2cvfa" midi.channel="0" midi.instrnum="0" midi.volume="78%"/>
-                        <clef xml:id="hjfnksx" line="2" shape="G"/>
-                        <keySig xml:id="i1uaasff" sig="0"/>
-                        <meterSig xml:id="jsp3pz6" count="6" unit="8"/>
-                     </staffDef>
-                     <staffDef xml:id="P2" lines="5" n="2" ppq="2">
-                        <instrDef xml:id="ut0lnre" midi.channel="1" midi.instrnum="0" midi.volume="78%"/>
-                        <clef xml:id="d16llog0" line="2" shape="G"/>
-                        <keySig xml:id="e112850t" sig="0"/>
-                        <meterSig xml:id="fowjldo" count="6" unit="8"/>
-                     </staffDef>
+                  <pgHead xml:id="pfq6kww2" func="first">
+                        <rend xml:id="r1lyxyr1" valign="top" halign="left" fontweight="bold" fontsize="130%" type="title">Weite Landschaft</rend>
+                     <rend xml:id="r99jccr2" halign="right" valign="top" fontsize="130%" fontweight="bold" >Wide Landscape</rend>
+                  </pgHead>    <staffGrp xml:id="xtg60a1" bar.thru="true" symbol="brace">
+                  <staffDef xml:id="P1" lines="5" n="1" ppq="2">
+                     <instrDef xml:id="yn2cvfa" midi.channel="0" midi.instrnum="0" midi.volume="78%"/>
+                     <clef xml:id="hjfnksx" line="2" shape="G"/>
+                     <keySig xml:id="i1uaasff" sig="0"/>
+                     <meterSig xml:id="jsp3pz6" count="6" unit="8"/>
+                  </staffDef>
+                  <staffDef xml:id="P2" lines="5" n="2" ppq="2">
+                     <instrDef xml:id="ut0lnre" midi.channel="1" midi.instrnum="0" midi.volume="78%"/>
+                     <clef xml:id="d16llog0" line="2" shape="G"/>
+                     <keySig xml:id="e112850t" sig="0"/>
+                     <meterSig xml:id="fowjldo" count="6" unit="8"/>
+                  </staffDef>
                   </staffGrp>
                </scoreDef>
                <section xml:id="vn9056d">
