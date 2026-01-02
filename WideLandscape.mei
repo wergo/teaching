@@ -132,13 +132,13 @@
                      </staff>
                      <dynam xml:id="uq6wcrq" place="below" staff="1" tstamp="1" val="49" vgrp="2030">p</dynam>
                      <tempo xml:id="wdjraie" midi.bpm="72" mm="72" mm.unit="4" place="above" staff="1" tstamp="1">
-                        <rend xml:id="xfmhvga" glyph.auth="smufl"></rend> = 72</tempo>
+                        (<rend xml:id="xfmhvga" glyph.auth="smufl"></rend> = 72)</tempo>
                      <dynam xml:id="q1tvlfh2" place="between" staff="1 2" tstamp="1" val="75" vgrp="2040">mf espr.</dynam>
                      <slur xml:id="uvmbswa" endid="#y1119xhk" startid="#tljutu2"/>
                      <tempo xml:id="tn0ot641" staff="1" startid="#d1k9j0na">Andantino, un poco rubato</tempo>
                      <pedal xml:id="pgve7i4" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                      <pedal xml:id="p0j3ij2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
-                     <pedal xml:id="pr4hj2y2" dir="down" form="line" staff="2" tstamp="4.5" vgrp="1"/>
+                     <pedal xml:id="pr4hj2y2" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                      <pedal xml:id="p78knz3" dir="down" ho="-3" staff="2" tstamp="0" vgrp="1"/>
                   </measure>
                   <measure xml:id="z1gl07n7" facs="#zone_01KDT4TC3DDSDA1GJAZQG3C6RS" n="2">
