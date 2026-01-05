@@ -23,7 +23,7 @@
                <name xml:id="nu8azlc">Verovio</name>
                <p xml:id="p1vw5oav">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="almhqu3" enddate="2026-01-05T17:30:46" startdate="2026-01-05T16:25:25" version="1.2.10">
+            <application xml:id="almhqu3" enddate="2026-01-05T17:34:35" startdate="2026-01-05T16:25:25" version="1.2.10">
                <name xml:id="nb4r7et2">mei-friend</name>
                <p xml:id="pjrpl3a1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -127,7 +127,7 @@
                      <pedal xml:id="pzs80b21" dir="down" staff="2" startid="#xvhjg3m"/>
                      <slur xml:id="s4sgc84" curvedir="below" endid="#z1timd3f" staff="2" startid="#mk3zc9v"/>
                      <slur xml:id="s4k74te1" curvedir="below" endid="#e2z3tw9" staff="2" startid="#qzh2emm"/>
-                     <tempo xml:id="tethgj21" staff="1" tstamp="1">Poco Andante e sostenuto</tempo>
+                     <tempo xml:id="tethgj21" staff="1" tstamp="1" midi.bpm="72">Poco Andante e sostenuto</tempo>
                   </measure>
                   <measure xml:id="g11k8xzk" facs="#zone_01KE7BZ5JQF7Q50BBFQQEZE965" n="2">
                      <staff xml:id="p122uq23" n="1">
@@ -786,7 +786,7 @@
                      </staff>
                      <slur xml:id="scxzj6w1" curvedir="below" endid="#ppw6dxn" staff="2" startid="#f15qpcqz"/>
                      <slur xml:id="sxstby51" curvedir="below" endid="#vdu8m27" staff="2" startid="#l7wrsg7"/>
-                     <tie xml:id="tg3ts7u1" endid="#kayk7jp" staff="1" startid="#jyi8g7u"/>
+                     <slur xml:id="sg3ts7u1" endid="#kayk7jp" staff="1" startid="#jyi8g7u"/>
                   </measure>
                   <sb xml:id="h1uskfx0"/>
                   <measure xml:id="x1fn193r" facs="#zone_01KE7BZ5JRBSM0YTHPYT8YYKVR" n="18">
@@ -836,7 +836,9 @@
                               <note xml:id="p175obol" accid.ges="f" dur="16" oct="4" pname="a" stem.dir="up"/>
                            </beam>
                            <beam xml:id="bqq5o1z1">
-                              <note xml:id="s1njtzhi" accid.ges="f" dur="16" oct="4" pname="b" stem.dir="up"/>
+                              <note xml:id="s1njtzhi" accid.ges="f" dur="16" oct="4" pname="b" stem.dir="up">
+                                 <accid xml:id="a9meioy2" accid="n"/>
+                              </note>
                               <note xml:id="uc0i8vl" dur="8" oct="5" pname="d" stem.dir="up"/>
                               <note xml:id="wstek61" dur="16" oct="5" pname="c" stem.dir="up"/>
                            </beam>
