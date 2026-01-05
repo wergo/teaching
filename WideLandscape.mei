@@ -5,7 +5,7 @@
    <meiHead xml:id="m1k4wfja">
       <fileDesc xml:id="f1ipgnvn">
          <titleStmt xml:id="t1vkdbzm">
-            <title xml:id="tikzqcf"/>
+            <title xml:id="tikzqcf">Weite Landschaft</title>
             <respStmt xml:id="rva4mpw1"/>
          </titleStmt>
          <pubStmt xml:id="p19o1gix">
@@ -18,7 +18,7 @@
                <name xml:id="n1bpt4w1">Verovio</name>
                <p xml:id="pg2azqd">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="av2jmtb1" enddate="2025-12-31T14:19:42" startdate="2025-12-31T13:09:09" version="1.2.10">
+            <application xml:id="av2jmtb1" enddate="2026-01-02T12:25:10" startdate="2025-12-31T13:09:09" version="1.2.10">
                <name xml:id="n69culv1">mei-friend</name>
                <p xml:id="p0a7yuc1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -67,20 +67,23 @@
       <body xml:id="b90t0vu2">
          <mdiv xml:id="seadhjl">
             <score xml:id="tjwy1zj">
-               <scoreDef xml:id="ueiaplr">
-                  <staffGrp xml:id="xtg60a1" bar.thru="true" symbol="brace">
-                     <staffDef xml:id="P1" lines="5" n="1" ppq="2">
-                        <instrDef xml:id="yn2cvfa" midi.channel="0" midi.instrnum="0" midi.volume="78%"/>
-                        <clef xml:id="hjfnksx" line="2" shape="G"/>
-                        <keySig xml:id="i1uaasff" sig="0"/>
-                        <meterSig xml:id="jsp3pz6" count="6" unit="8"/>
-                     </staffDef>
-                     <staffDef xml:id="P2" lines="5" n="2" ppq="2">
-                        <instrDef xml:id="ut0lnre" midi.channel="1" midi.instrnum="0" midi.volume="78%"/>
-                        <clef xml:id="d16llog0" line="2" shape="G"/>
-                        <keySig xml:id="e112850t" sig="0"/>
-                        <meterSig xml:id="fowjldo" count="6" unit="8"/>
-                     </staffDef>
+               <scoreDef xml:id="ueiaplr" pedal.style="line">
+                  <pgHead xml:id="pfq6kww2" func="first">
+                        <rend xml:id="r1lyxyr1" fontsize="130%" fontweight="bold" halign="left" type="title" valign="top">Weite Landschaft</rend>
+                     <rend xml:id="r99jccr2" fontsize="130%" fontweight="bold" halign="right" valign="top">Wide Landscape</rend>
+                  </pgHead>    <staffGrp xml:id="xtg60a1" bar.thru="true" symbol="brace">
+                  <staffDef xml:id="P1" lines="5" n="1" ppq="2">
+                     <instrDef xml:id="yn2cvfa" midi.channel="0" midi.instrnum="0" midi.volume="78%"/>
+                     <clef xml:id="hjfnksx" line="2" shape="G"/>
+                     <keySig xml:id="i1uaasff" sig="0"/>
+                     <meterSig xml:id="jsp3pz6" count="6" unit="8"/>
+                  </staffDef>
+                  <staffDef xml:id="P2" lines="5" n="2" ppq="2">
+                     <instrDef xml:id="ut0lnre" midi.channel="1" midi.instrnum="0" midi.volume="78%"/>
+                     <clef xml:id="d16llog0" line="2" shape="G"/>
+                     <keySig xml:id="e112850t" sig="0"/>
+                     <meterSig xml:id="fowjldo" count="6" unit="8"/>
+                  </staffDef>
                   </staffGrp>
                </scoreDef>
                <section xml:id="vn9056d">
@@ -129,10 +132,14 @@
                      </staff>
                      <dynam xml:id="uq6wcrq" place="below" staff="1" tstamp="1" val="49" vgrp="2030">p</dynam>
                      <tempo xml:id="wdjraie" midi.bpm="72" mm="72" mm.unit="4" place="above" staff="1" tstamp="1">
-                        <rend xml:id="xfmhvga" glyph.auth="smufl"></rend> = 72</tempo>
+                        (<rend xml:id="xfmhvga" glyph.auth="smufl"></rend> = 72)</tempo>
                      <dynam xml:id="q1tvlfh2" place="between" staff="1 2" tstamp="1" val="75" vgrp="2040">mf espr.</dynam>
                      <slur xml:id="uvmbswa" endid="#y1119xhk" startid="#tljutu2"/>
                      <tempo xml:id="tn0ot641" staff="1" startid="#d1k9j0na">Andantino, un poco rubato</tempo>
+                     <pedal xml:id="pgve7i4" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="p0j3ij2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="pr4hj2y2" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
+                     <pedal xml:id="p78knz3" dir="down" ho="-3" staff="2" tstamp="0" vgrp="1"/>
                   </measure>
                   <measure xml:id="z1gl07n7" facs="#zone_01KDT4TC3DDSDA1GJAZQG3C6RS" n="2">
                      <staff xml:id="imigpm1" n="1">
@@ -175,6 +182,10 @@
                      </staff>
                      <hairpin xml:id="j1930zym" form="dim" place="between" staff="1 2" tstamp="1" tstamp2="0m+7" vgrp="2170"/>
                      <tie xml:id="llkavwm" endid="#y1119xhk" startid="#k1xg0i4b"/>
+                     <pedal xml:id="prqsy5w1" dir="up" form="line" staff="2" startid="#jpe2sdq"/>
+                     <pedal xml:id="pl368i61" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="p19ruy71" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="pf93pm6" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="f11i5ohj" facs="#zone_01KDT4TC3DM89VJBJYZH3XXJ0G" n="3">
                      <staff xml:id="ok1wwij" n="1">
@@ -226,6 +237,8 @@
                      </staff>
                      <hairpin xml:id="az7t96m" form="cres" place="between" staff="1 2" tstamp="1" tstamp2="0m+7" vgrp="2170"/>
                      <slur xml:id="a1rv92hu" endid="#s15mdg37" startid="#z1usgj99"/>
+                     <pedal xml:id="pbqj26u2" dir="up" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="phwr0ve" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="l12srx3h" facs="#zone_01KDT4TC3DXHTYHH1271HTFXFS" n="4">
                      <staff xml:id="utbca9x" n="1">
@@ -269,6 +282,10 @@
                      <hairpin xml:id="g1mfpmfp" form="dim" place="between" staff="1 2" tstamp="4" tstamp2="1m+2" vgrp="2170"/>
                      <tie xml:id="q19k2jr4" endid="#fawt3mf" startid="#o1bru8pn"/>
                      <tie xml:id="s123fvdr" endid="#hd8zy5t" startid="#rg8x24x"/>
+                     <pedal xml:id="psbsqe6" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pcdcyet1" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="p7flwfj2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="p4fovio1" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="t1t42dgu" facs="#zone_01KDT4TC3DP97QK9CTZDH6JTTB" n="5">
                      <staff xml:id="c1weotb1" n="1">
@@ -322,6 +339,10 @@
                      <slur xml:id="c16upgju" endid="#d5y8z5r" startid="#e1h7uiij"/>
                      <tie xml:id="l1bux72k" endid="#cxmvlvx" startid="#fn3guzl"/>
                      <tie xml:id="o14kyyyu" endid="#f1pojg1v" startid="#miiz3x6"/>
+                     <pedal xml:id="p76xwi3" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="piu8o0n2" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="p2c9b9a" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="pocksey1" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <sb xml:id="zb7cta0"/>
                   <measure xml:id="p170ief5" facs="#zone_01KDT4TC3DBH8YQ3ARDMKXXHA7" n="6">
@@ -369,6 +390,10 @@
                      <tie xml:id="z1y4qj13" endid="#p1667s25" startid="#y11d5lsh"/>
                      <tie xml:id="e1fijpu8" endid="#rzdyps4" startid="#d5y8z5r"/>
                      <slur xml:id="sr131cw1" endid="#e1h7uiij" staff="2" startid="#d5y8z5r"/>
+                     <pedal xml:id="pjpma5s1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="p0sq9ef" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="pmck1tq2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="pt9bdqj2" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <scoreDef xml:id="krt47me">
                      <meterSig xml:id="l1l7jpvi" count="9" unit="8"/>
@@ -402,6 +427,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="um5n2c6" endid="#y53kcc9" startid="#sschmyr"/>
+                     <pedal xml:id="pxk6qw81" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
                   </measure>
                   <measure xml:id="s1gu9so3" facs="#zone_01KDT4TC3E2EPKKDZ21TMP2229" n="8">
                      <staff xml:id="b40rvgx" n="1">
@@ -537,6 +563,7 @@
                      <dynam xml:id="l1fo05xk" place="between" staff="1 2" tstamp="1" val="49" vgrp="2290">p</dynam>
                      <hairpin xml:id="h1i68m8" form="cres" place="above" staff="2" tstamp="4" tstamp2="7"/>
                      <slur xml:id="scxkaw41" endid="#ot0g16z" staff="1" startid="#pkeiv5u"/>
+                     <pedal xml:id="pajjz4q1" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <scoreDef xml:id="i13qccc2">
                      <meterSig xml:id="jb518ge" count="9" unit="8"/>
@@ -572,8 +599,12 @@
                            <clef xml:id="jv0z5zj" line="2" shape="G"/>
                         </layer>
                      </staff>
-                     <dynam xml:id="kdfpuab" place="between" staff="1 2" tstamp="1" val="75" vgrp="1">mf espr., legato</dynam>
+                     <dynam xml:id="kdfpuab" place="below" staff="1" tstamp="1" val="75" vgrp="1">mf espr., legato</dynam>
                      <hairpin xml:id="hi6brp21" form="dim" place="between" staff="1 2" tstamp="7" tstamp2="9.5" vgrp="1"/>
+                     <pedal xml:id="pms3rqa1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pyc676n2" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="p2lbkdy2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="pk56e" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="prtpq9w" facs="#zone_01KDT4TC3ERGD5467RTDDJEBJY" n="13">
                      <staff xml:id="y1il2dd4" n="1">
@@ -583,7 +614,7 @@
                            <note xml:id="kfyhczh" dots="1" dur="4" dur.ppq="3" oct="4" pname="b" stem.dir="down">
                               <accid xml:id="l186wuoz" accid="f"/>
                            </note>
-                           <note xml:id="c1ai1mj0" dots="1" dur="4" dur.ppq="3" oct="4" pname="g" stem.dir="up" />
+                           <note xml:id="c1ai1mj0" dots="1" dur="4" dur.ppq="3" oct="4" pname="g" stem.dir="up"/>
                         </layer>
                      </staff>
                      <staff xml:id="i1r63d6o" n="2">
@@ -608,6 +639,8 @@
                      <dynam xml:id="dzrumwe" place="between" staff="1 2" startid="#kfyhczh">p</dynam>
                      <hairpin xml:id="hkl0cwb1" form="dim" place="between" staff="1 2" tstamp="5" tstamp2="9"/>
                      <slur xml:id="s6hk7r2" endid="#c1ai1mj0" staff="1" startid="#kfyhczh"/>
+                     <pedal xml:id="pi2akcb1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pe4ypu5" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <scoreDef xml:id="yk04xju">
                      <meterSig xml:id="z1te3keu" count="6" unit="8"/>
@@ -643,6 +676,8 @@
                      </staff>
                      <hairpin xml:id="c1u1lcu8" form="cres" place="between" staff="1 2" tstamp="3" tstamp2="0m+7" vgrp="2170"/>
                      <slur xml:id="syd0i1n2" endid="#s4eh6x" staff="1" startid="#e1jzo591"/>
+                     <pedal xml:id="pjrkq201" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="prvgv1n2" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="mvnx7ko2" facs="#zone_01KDT4TC3F3FDM674C2T6B46TG" n="15">
                      <staff xml:id="skl87ca1" n="1">
@@ -671,6 +706,8 @@
                      </staff>
                      <dynam xml:id="dvru6ej1" place="between" staff="1 2" startid="#kfydczh">mf</dynam>
                      <tie xml:id="tm7hwwf1" curvedir="above" endid="#y1rs57c9" staff="1" startid="#c1ai1md0"/>
+                     <pedal xml:id="po4b5ty1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pe4lndr2" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <sb xml:id="va68tca"/>
                   <measure xml:id="l1olluep" facs="#zone_01KDT4TC3FS5E3RD9SEV0VCDWG" n="16">
@@ -763,7 +800,10 @@
                      </staff>
                      <hairpin xml:id="o1sp1ef2" form="dim" place="between" staff="1 2" tstamp="1" tstamp2="0m+7" vgrp="2240"/>
                      <dynam xml:id="k9lxfwz" place="between" staff="1 2" tstamp="1" val="88" vgrp="2040">mf</dynam>
-                     <slur xml:id="phs4o81" endid="#qnha1f5" startid="#o1vkf9so"/>
+                     <pedal xml:id="pyg7f5w1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pmo22g81" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="paoaquo2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <slur xml:id="szptvsi1" curvedir="below" endid="#gjskpty" staff="2" startid="#o1vkf9so"/>
                   </measure>
                   <measure xml:id="u1bhg8jj" facs="#zone_01KDT4TC3F58C40ZA0AYYZH1MG" n="19">
                      <staff xml:id="duq7raq" n="1">
@@ -812,6 +852,9 @@
                      <slur xml:id="t1wo6nk" curvedir="above" endid="#g176hcbs" startid="#re04adq"/>
                      <tie xml:id="whlg6so" endid="#j16a5fgy" startid="#u35t3sv"/>
                      <dynam xml:id="dbks0tm2" place="between" staff="1 2" tstamp="1">mf espr.</dynam>
+                     <pedal xml:id="p2hadlb1" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="ppc67sr2" dir="up" form="line" staff="2" tstamp="4" vgrp="1"/>
+                     <pedal xml:id="ped226k1" dir="down" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="xm3c4t1" facs="#zone_01KDT4TC3FYFQE3DS9W188DT4D" n="21">
                      <staff xml:id="g5dej48" n="1">
@@ -848,6 +891,9 @@
                            <note xml:id="b1uayu4r" dur="4" dur.ppq="2" oct="4" pname="d" stem.dir="down"/>
                         </layer>
                      </staff>
+                     <pedal xml:id="pdvmd7m1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pqasuhe1" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="pg3nmwr1" dir="up" form="line" staff="2" tstamp="6.9" vgrp="1"/>
                   </measure>
                   <sb xml:id="dyhcaog"/>
                   <measure xml:id="t1jb6oa" facs="#zone_01KDT4TC3FSFG4XQVZ2QT904W6" n="22">
@@ -888,6 +934,8 @@
                            <space xml:id="b15aevcn" dur="2" dur.ppq="4"/>
                         </layer>
                      </staff>
+                     <pedal xml:id="pqieymg1" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="pxq67wc1" dir="up" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="r1d3qfd6" facs="#zone_01KDT4TC3FTJ5JW7FX1CHXP0S4" n="23">
                      <staff xml:id="a19x07q3" n="1">
@@ -922,6 +970,8 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="bx8oezc" form="dim" place="between" staff="1 2" tstamp="1" tstamp2="0m+7" vgrp="2170"/>
+                     <pedal xml:id="p77rb81" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
+                     <pedal xml:id="p92fjhe1" dir="up" form="line" staff="2" tstamp="4.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="jykzd79" facs="#zone_01KDT4TC3FCS886X9SEGHKEBG2" n="24">
                      <staff xml:id="s1c6rzw4" n="1">
@@ -946,8 +996,9 @@
                         <layer xml:id="j1hxfhd5" n="1">
                         </layer>
                      </staff>
-                     <dynam xml:id="d7mlmes1" ho="-0.5" place="below" staff="1" startid="#v1ic4l2n">mp</dynam>
+                     <dynam xml:id="d7mlmes1" ho="-2" place="below" staff="1" startid="#v1ic4l2n" vo="-1">mp</dynam>
                      <slur xml:id="s4myfgj2" endid="#cg2ky4d" staff="1" startid="#v1ic4l2n"/>
+                     <pedal xml:id="pkp6278" dir="down" form="line" place="below" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="eqbmpya" facs="#zone_01KDT4TC3FJXAHJ0GH2TJSFY6F" n="25">
                      <staff xml:id="n1hp1gg8" n="1">
@@ -978,7 +1029,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="shmd5t41" endid="#y1jmvjjo" staff="1" startid="#q1ittipb"/>
-                     <dir xml:id="dj4gc2r1" ho="-0.5" place="above" staff="1" startid="#q1ittipb">fließend<lb />flowing</dir>
+                     <dir xml:id="dj4gc2r1" ho="-0.5" place="above" staff="1" startid="#q1ittipb">fließend<lb xml:id="lzzb79c1"/>flowing</dir>
+                     <pedal xml:id="pql21yf1" dir="up" form="line" place="below" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pse1u3c" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="a194b0mz" facs="#zone_01KDT4TC3GKYZDT5YMBWE0YJ09" n="26">
                      <staff xml:id="j17zz6es" n="1">
@@ -1011,6 +1064,8 @@
                         </layer>
                      </staff>
                      <slur xml:id="s3orn1n2" endid="#wnn267f" staff="1" startid="#m1joefad"/>
+                     <pedal xml:id="pdev2441" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pt0siky1" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="x9vqi65" facs="#zone_01KDT4TC3GWACK18K8K9M99GYE" n="27">
                      <staff xml:id="g1knimqs" n="1">
@@ -1035,12 +1090,10 @@
                         <layer xml:id="j4bghdq" n="1">
                            <mSpace xml:id="lmwxmgp"/>
                         </layer>
-                        <layer xml:id="mpnjfva" n="3">
-                           <space xml:id="o6uofuo" dur="4" dur.ppq="2"/>
-                           <space xml:id="p1a9htyq" dur="8" dur.ppq="1"/>
-                        </layer>
                      </staff>
                      <slur xml:id="st8mejy1" endid="#r1fuvs6y" staff="1" startid="#j1alfamx"/>
+                     <pedal xml:id="p14u2jg1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="puomoo3" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <sb xml:id="d1db2gei"/>
                   <measure xml:id="t15ih144" facs="#zone_01KDT4TC3GS2QV4NQVNBPAVRKD" n="28">
@@ -1066,12 +1119,10 @@
                         <layer xml:id="c183z8lf" n="1">
                            <mSpace xml:id="exgajpo"/>
                         </layer>
-                        <layer xml:id="f3y3v2y" n="3">
-                           <space xml:id="h1mrl7px" dur="4" dur.ppq="2"/>
-                           <space xml:id="i1cpwb3b" dur="8" dur.ppq="1"/>
-                        </layer>
                      </staff>
                      <slur xml:id="scu6qsp1" endid="#qyjjzwi" staff="1" startid="#gxw6niq"/>
+                     <pedal xml:id="p505l8a1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pxmhb88" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="rgqbpoo" facs="#zone_01KDT4TC3HN2VN0JAN6HT0YGQ9" n="29">
                      <staff xml:id="a1c2j9x9" n="1">
@@ -1102,6 +1153,8 @@
                      <tie xml:id="c16xo104" endid="#euo8jfw" startid="#a5kjlzw"/>
                      <hairpin xml:id="habecvg" form="cres" place="between" staff="1 2" tstamp="4" tstamp2="1m+1"/>
                      <slur xml:id="skq11qo2" endid="#jtfjso7" staff="1" startid="#goq479e"/>
+                     <pedal xml:id="pfj21bn1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="p496jy2" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="q4349ua" facs="#zone_01KDT4TC3HQFNBKDHRXEFG0F68" n="30">
                      <staff xml:id="ztq4ma3" n="1">
@@ -1129,6 +1182,8 @@
                      <dynam xml:id="ds7iu9s1" place="between" staff="1 2" startid="#jtfjso7" vgrp="1">mf</dynam>
                      <tie xml:id="tsp0knl1" endid="#c1cfi79c" staff="1" startid="#jtfjso7"/>
                      <hairpin xml:id="h3ww9mi1" form="dim" place="between" staff="1 2" tstamp="6" tstamp2="1m+1" vgrp="1"/>
+                     <pedal xml:id="pj8vjd1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="pk5tl89" dir="down" form="line" staff="2" tstamp="1.9" vgrp="1"/>
                   </measure>
                   <measure xml:id="m3w2dub1" facs="#zone_01KDT4TC3HTEMV2HHCN0PMAQEF" n="31">
                      <staff xml:id="sg5gu781" n="1">
@@ -1160,6 +1215,8 @@
                      <slur xml:id="skrff1l1" endid="#x90ghvj" staff="1" startid="#ey0024a"/>
                      <dynam xml:id="d9dkj5y1" ho="-1.5" place="between" staff="1 2" startid="#ey0024a" vo="-0.5">p</dynam>
                      <dir xml:id="d51pio9" ho="-4" place="above" staff="2" tstamp="2" vo="-7">espr.</dir>
+                     <pedal xml:id="p9ws2rz1" dir="up" form="line" staff="2" tstamp="1" vgrp="1"/>
+                     <pedal xml:id="p68ajp51" dir="down" form="line" staff="2" tstamp="1.5" vgrp="1"/>
                   </measure>
                   <measure xml:id="k7p32ym" facs="#zone_01KDT4TC3H450NB1VP1W7AN6JJ" n="32">
                      <staff xml:id="trk0ey2" n="1">
@@ -1214,6 +1271,7 @@
                      <hairpin xml:id="hwxmzkw1" form="dim" staff="1" tstamp="1" tstamp2="7"/>
                      <octave xml:id="ou7zwd9" dis="8" dis.place="above" endid="#xpt2jow" startid="#aoa3baw"/>
                      <octave xml:id="og505pt1" dis="8" dis.place="above" endid="#oj9ytcx" startid="#l1aeobf0"/>
+                     <pedal xml:id="pghvvae" dir="up" form="line" staff="2" tstamp="7" vgrp="1"/>
                   </measure>
                </section>
             </score>
