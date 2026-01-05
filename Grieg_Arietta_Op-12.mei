@@ -23,7 +23,7 @@
                <name xml:id="nu8azlc">Verovio</name>
                <p xml:id="p1vw5oav">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="almhqu3" enddate="2026-01-05T17:24:33" startdate="2026-01-05T16:25:25" version="1.2.10">
+            <application xml:id="almhqu3" enddate="2026-01-05T17:30:46" startdate="2026-01-05T16:25:25" version="1.2.10">
                <name xml:id="nb4r7et2">mei-friend</name>
                <p xml:id="pjrpl3a1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -122,7 +122,7 @@
                         </layer>
                      </staff>
                      <dynam xml:id="mncgl1e" place="between" staff="1 2" tstamp="1" val="49" vgrp="2290">p</dynam>
-                     <hairpin xml:id="sgdtbdh" form="cres" place="above" staff="1" tstamp="2" tstamp2="0m+3.5" vgrp="1"/>
+                     <hairpin xml:id="sgdtbdh" form="cres" place="above" staff="1" tstamp="2" tstamp2="0m+3" vgrp="1"/>
                      <tie xml:id="z1ehc180" endid="#v109yphu" startid="#xvhjg3m"/>
                      <pedal xml:id="pzs80b21" dir="down" staff="2" startid="#xvhjg3m"/>
                      <slur xml:id="s4sgc84" curvedir="below" endid="#z1timd3f" staff="2" startid="#mk3zc9v"/>
@@ -213,7 +213,7 @@
                            <note xml:id="s1dlkimy" accid.ges="f" dur="2" oct="3" pname="e" stem.dir="down"/>
                         </layer>
                      </staff>
-                     <hairpin xml:id="v1b9h57g" form="cres" place="above" staff="1" tstamp="2" tstamp2="0m+3.5" vgrp="2"/>
+                     <hairpin xml:id="v1b9h57g" form="cres" place="above" staff="1" tstamp="2" tstamp2="0m+3" vgrp="2"/>
                      <tie xml:id="u15fwf43" endid="#t1r9v8d2" startid="#s1dlkimy"/>
                      <slur xml:id="sdmq6c8" curvedir="below" endid="#dcp6937" staff="2" startid="#jo7j1wi"/>
                      <slur xml:id="s4i3odi1" curvedir="below" endid="#j12ybrpx" staff="2" startid="#n138gk7a"/>
@@ -463,9 +463,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="svbrszf1" curvedir="above" endid="#t4wcc59" staff="1" startid="#jlvtjxk"/>
-                     <pedal xml:id="p0d0zq31" dir="down" staff="2" startid="#q1vn8axo" vgrp="1"/>
+                     <pedal xml:id="p0d0zq31" dir="down" staff="2" startid="#q1vn8axo" vgrp="4"/>
                      <slur xml:id="soqwcgh" curvedir="below" endid="#amgf4j8" staff="2" startid="#i1z0k620"/>
-                     <pedal xml:id="plr374s1" dir="up" staff="2" startid="#amgf4j8" vgrp="1"/>
+                     <pedal xml:id="plr374s1" dir="up" staff="2" startid="#amgf4j8" vgrp="4"/>
                      <hairpin xml:id="hnynnyl2" form="cres" place="above" staff="1" tstamp="2" tstamp2="2.35" vgrp="2"/>
                      <hairpin xml:id="h268onf" form="dim" place="above" staff="1" tstamp="2.45" tstamp2="2.95" vgrp="2"/>
                   </measure>
@@ -543,8 +543,8 @@
                      <hairpin xml:id="h268snf" form="dim" place="above" staff="1" tstamp="2.45" tstamp2="2.95" vgrp="2"/>
                      <slur xml:id="s7js1ex2" curvedir="above" endid="#x1ls1kkr" staff="1" startid="#mimfkn2"/>
                      <slur xml:id="s93m6h21" curvedir="below" endid="#cn5auf2" staff="2" startid="#x63o4i"/>
-                     <pedal xml:id="pynz0x51" dir="down" staff="2" startid="#emp6ddg" vgrp="3"/>
-                     <pedal xml:id="pj3tqnz1" dir="up" staff="2" startid="#cn5auf2" vgrp="3"/>
+                     <pedal xml:id="pynz0x51" dir="down" staff="2" startid="#emp6ddg" vgrp="4"/>
+                     <pedal xml:id="pj3tqnz1" dir="up" staff="2" startid="#cn5auf2" vgrp="4"/>
                   </measure>
                   <measure xml:id="fzxpe6n" facs="#zone_01KE7BZ5JQ55F7FAY1RZHHVPMG" n="12">
                      <staff xml:id="o1gsq817" n="1">
@@ -557,8 +557,8 @@
                            </note>
                            <note xml:id="w192zqz6" accid.ges="f" dur="8" oct="3" pname="b" stem.dir="down"/>
                            <beam xml:id="y12el0z3">
-                              <note xml:id="z34qqud" accid.ges="f" dur="8" grace="acc" oct="4" pname="e" stem.dir="down"/>
-                              <note xml:id="bhs0626" dur="8" grace="acc" oct="4" pname="g" stem.dir="down"/>
+                              <note xml:id="z34qqud" accid.ges="f" dur="16" grace="acc" oct="4" pname="e" stem.dir="up"/>
+                              <note xml:id="bhs0626" dur="16" grace="acc" oct="4" pname="g" stem.dir="up"/>
                            </beam>
                         </layer>
                      </staff>
@@ -576,12 +576,15 @@
                      <slur xml:id="v1uc9k5d" endid="#w192zqz6" startid="#t1s6plv2"/>
                      <tie xml:id="ts4g5oq1" curvedir="below" endid="#q1ttd4ta" staff="2" startid="#z1wwk2tm"/>
                      <slur xml:id="st9hh7m2" curvedir="above" endid="#x13ofrn5" staff="2" startid="#ulw5rpy"/>
+                     <slur xml:id="s22184q1" curvedir="above" endid="#o1vyxvj4" staff="1" startid="#z34qqud"/>
                   </measure>
                   <measure xml:id="cdz4t9x" facs="#zone_01KE7BZ5JRE1DTZJN029FQQFNY" n="13">
                      <staff xml:id="l19r5b69" n="1">
                         <layer xml:id="mjmes8r" n="1">
                            <beam xml:id="nsbnmab">
-                              <note xml:id="o1vyxvj4" dur="8" oct="5" pname="g" stem.dir="up"/>
+                              <note xml:id="o1vyxvj4" dur="8" oct="5" pname="g" stem.dir="up">
+                                 <artic xml:id="ajz596i1" artic="stacc" place="above"/>
+                              </note>
                               <note xml:id="qbrgcrl" dur="8" oct="5" pname="g" stem.dir="up"/>
                               <note xml:id="sqau37f" dur="8" oct="5" pname="g" stem.dir="up"/>
                               <note xml:id="t1n1vywk" dur="8" oct="5" pname="g" stem.dir="up"/>
@@ -611,9 +614,10 @@
                            </beam>
                         </layer>
                      </staff>
-                     <hairpin xml:id="r19g5qcl" form="cres" place="above" staff="1" tstamp="2" tstamp2="0m+3.5" vgrp="2400"/>
+                     <hairpin xml:id="r19g5qcl" form="cres" place="above" staff="1" tstamp="2" tstamp2="0m+3" vgrp="2400"/>
                      <slur xml:id="s8idcrs2" curvedir="below" endid="#d1u9fxp5" staff="2" startid="#xe84qaj"/>
                      <slur xml:id="s2opryr2" curvedir="below" endid="#y8cs6es" staff="2" startid="#q1ttd4ta"/>
+                     <pedal xml:id="p7ix5kg1" dir="down" staff="2" startid="#nqkqosq" vgrp="4"/>
                   </measure>
                   <sb xml:id="p1vg4eqv"/>
                   <measure xml:id="f1bud8oe" facs="#zone_01KE7BZ5JRY6XD2EJ0R13B67C9" n="14">
