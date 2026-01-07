@@ -18,7 +18,7 @@
                <name xml:id="nxtwumq">Verovio</name>
                <p xml:id="popb9wp">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amgbbtd" enddate="2026-01-07T16:38:01" startdate="2026-01-07T14:35:27" version="1.2.10">
+            <application xml:id="amgbbtd" enddate="2026-01-07T16:42:58" startdate="2026-01-07T14:35:27" version="1.2.10">
                <name xml:id="ntnq6sy1">mei-friend</name>
                <p xml:id="pme3fwt1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -220,6 +220,7 @@
                      <harm xml:id="u1ac6kq4" staff="1" tstamp="1">F♯m7</harm>
                      <tie xml:id="tw7rzfh" endid="#vdrzegf" staff="1" startid="#g1lpmfm6"/>
                   </measure>
+                  <sb xml:id="s2ox12l1"/>
                   <measure xml:id="i1l3hmz7" n="8">
                      <staff xml:id="rijgd81" n="1">
                         <layer xml:id="u7xi63p" n="1">
@@ -448,7 +449,7 @@
                      </staff>
                      <harm xml:id="sm3c2mh" staff="1" tstamp="1">E11(D/E)</harm>
                   </measure>
-                  <measure xml:id="a16tuvzw" n="14" right="rptend">
+                  <measure xml:id="a16tuvzw" n="14" right="dbl">
                      <staff xml:id="j1o274cp" n="1">
                         <layer xml:id="kyihvc8" n="1">
                            <rest xml:id="lg1qu6n" dur="4" dur.ppq="2"/>
@@ -472,6 +473,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb xml:id="syyoxp81"/>
                   <measure xml:id="x1hvdczv" n="15">
                      <staff xml:id="g19u4ip" n="1">
                         <layer xml:id="kqwtq2s" n="1">
@@ -722,6 +724,7 @@
                      <tie xml:id="n1ba99rh" endid="#h1ipjesi" startid="#lz4b4ju"/>
                      <tie xml:id="p1que6o6" endid="#j1p343ww" startid="#otkx6os"/>
                   </measure>
+                  <sb xml:id="sjga9ja1"/>
                   <measure xml:id="q1sypp5p" n="21">
                      <staff xml:id="zts6266" n="1">
                         <layer xml:id="c1u4lfxt" n="1">
@@ -1029,6 +1032,7 @@
                      <tie xml:id="tbv4uht1" endid="#qkod0uo" staff="1" startid="#l16nmh53"/>
                      <tie xml:id="tevfbra" endid="#o16yk1tq" staff="1" startid="#inzc9c2"/>
                   </measure>
+                  <sb xml:id="s2jnvd91"/>
                   <measure xml:id="t1207vn7" n="27">
                      <staff xml:id="ck4r9m7" n="1">
                         <layer xml:id="g1gl4cyp" n="1">
@@ -1260,6 +1264,7 @@
                      <harm xml:id="ejk8ito" staff="1" tstamp="1">B7</harm>
                      <tie xml:id="tofs29a" endid="#f4m38uh" startid="#r1x283n3"/>
                   </measure>
+                  <sb xml:id="sk68f5w2"/>
                   <measure xml:id="u18wukbf" n="33">
                      <staff xml:id="dmgbmjv" n="1">
                         <layer xml:id="e1oog3pn" n="1">
