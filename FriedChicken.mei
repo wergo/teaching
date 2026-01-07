@@ -66,7 +66,7 @@
                         </layer>
                      </staff>
                      <tempo xml:id="gg0mhb2" ho="0.5" midi.bpm="156" mm="156" mm.unit="4" place="above" staff="1" tstamp="1">
-                        <rend xml:id="hl9ls6x" fontsize="small" glyph.auth="smufl"></rend> = 156</tempo>
+                        <rend xml:id="hl9ls6x" fontsize="small" glyph.auth="smufl"> </rend>= 156</tempo>
                   </measure>
                   <measure xml:id="n5v5x8m" n="2">
                      <staff xml:id="w9u1xs4" n="1">
