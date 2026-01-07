@@ -23,7 +23,7 @@
                <name xml:id="n1ngs2m7">Verovio</name>
                <p xml:id="p14n24vf">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:29:39">
+            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:39:14">
                <name xml:id="nqiuasf">mei-friend</name>
                <p xml:id="pewvzol1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -217,7 +217,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="z19a60b" endid="#c59t3td" startid="#y1r5j3sh"/>
+                     <slur xml:id="sc518h71" endid="#dbubmoq" staff="1" startid="#xltfhms"/>
                   </measure>
                   <measure xml:id="e16pvdi3" facs="#zone_01KE7Z2QJQRQEKBFT34XBHQCJW" n="4">
                      <staff xml:id="n1iryg8t" n="1">
@@ -278,7 +278,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="ldha89u" endid="#m1oqhz8d" startid="#kxgd5h4"/>
+                     <slur xml:id="s7hrn92" endid="#m1oqhz8d" staff="1" startid="#jv7zfva"/>
                   </measure>
                   <sb xml:id="sezo8tp1"/>
                   <measure xml:id="ol4uj3u" facs="#zone_01KE7Z2QJQFBDSYRXEX7Q9HRVF" n="6">
@@ -336,7 +336,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="tajyiaj" endid="#j612c2j" startid="#sx4er0f"/>
+                     <slur xml:id="sgzz3qm1" endid="#j612c2j" staff="1" startid="#r130g5ld"/>
                   </measure>
                   <measure xml:id="yht0c03" facs="#zone_01KE7Z2QJR0DSGWERCQTQ1PSPC" n="8">
                      <staff xml:id="hayge7s" n="1">
@@ -357,7 +357,7 @@
                            <rest xml:id="p119vvzw" dur="4" dur.ppq="1"/>
                         </layer>
                      </staff>
-                     <dynam xml:id="l46hflr" place="above" staff="1" tstamp="3" val="49" vgrp="95">p</dynam>
+                     <dynam xml:id="l46hflr" place="between" staff="1 2" tstamp="3" val="49" vgrp="95">p</dynam>
                   </measure>
                   <measure xml:id="o1dwvflu" facs="#zone_01KE7Z2QJR764J70DBW9ZTH523" n="9">
                      <staff xml:id="xctt3ys" n="1">
@@ -385,7 +385,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="c74uafc" endid="#dpoji61" startid="#brjsdcj"/>
+                     <slur xml:id="stsvqmb1" endid="#dpoji61" staff="1" startid="#a1c1qqua"/>
                   </measure>
                   <measure xml:id="f1sm1qh8" facs="#zone_01KE7Z2QJRJVXK03QP4WG5FS8F" n="10">
                      <staff xml:id="o16cossd" n="1">
@@ -414,6 +414,7 @@
                      </staff>
                      <slur xml:id="s1pxczcc" endid="#u17jegon" startid="#rl4l99q"/>
                   </measure>
+                  <sb/>
                   <measure xml:id="v19d36l6" facs="#zone_01KE7Z2QJRSP3M4PFMH59TK7TA" n="11">
                      <staff xml:id="e1rruhdr" n="1">
                         <layer xml:id="g1cyss6y" n="1">
@@ -442,7 +443,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="k16skw24" endid="#n1a2ycok" startid="#j1sr20me"/>
+                     <slur xml:id="sa8pkdd" endid="#o4774ay" staff="1" startid="#i1845kf0"/>
                   </measure>
                   <measure xml:id="pk0v11e" facs="#zone_01KE7Z2QJREYZHXMAF3NBH4F5J" n="12">
                      <staff xml:id="yk50r1h" n="1">
@@ -504,7 +505,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="vwpt571" endid="#x19zd20q" startid="#u11qyec1"/>
-                     <dynam xml:id="c1f7rfu6" place="above" staff="2" tstamp="1" val="75" vgrp="2023">mf</dynam>
+                     <dynam xml:id="c1f7rfu6" place="between" staff="1 2" tstamp="1" val="75" vgrp="2023">mf</dynam>
                   </measure>
                   <measure xml:id="z1ut2mzq" facs="#zone_01KE7Z2QJRM3WRR5W0ABZJAA69" n="14">
                      <staff xml:id="iv8mh70" n="1">
@@ -532,6 +533,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="mdn21xd" endid="#olynn3l" startid="#l9me7df"/>
+                     <dir xml:id="deuel3k1" place="between" staff="1 2" startid="#l9me7df">cresc.</dir>
                   </measure>
                   <measure xml:id="p1sy2vwy" facs="#zone_01KE7Z2QJSH938EQX3JW046V0C" n="15">
                      <staff xml:id="y1pxl6j" n="1">
@@ -565,6 +567,7 @@
                         </layer>
                      </staff>
                   </measure>
+                  <sb/>
                   <measure xml:id="i1932zn3" facs="#zone_01KE7Z2QJSKGCAVB5XPYPEYAHH" n="16">
                      <staff xml:id="r8bnlid" n="1">
                         <layer xml:id="t1e5hfb9" n="1">
@@ -621,8 +624,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="k5rejcn" endid="#iwrb11r" startid="#ig15edo"/>
-                     <dynam xml:id="imybrn5" place="above" staff="2" tstamp="1" val="88" vgrp="2023">f</dynam>
+                     <dynam xml:id="imybrn5" place="between" staff="1 2" tstamp="1" val="88" vgrp="2023">f</dynam>
+                     <slur xml:id="slte4ed" endid="#h4oq378" staff="1" startid="#h1btc9s8"/>
                   </measure>
                   <measure xml:id="q1c9bryi" facs="#zone_01KE7Z2QJSPDARZSG4ST50G597" n="18">
                      <staff xml:id="z8lu5pp" n="1">
@@ -722,13 +725,14 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="tvvmel4" endid="#ws14pqq" startid="#s1lje3y2"/>
+                     <slur xml:id="sii41v81" endid="#xmnlztl" staff="1" startid="#s1lje3y2"/>
                   </measure>
+                  <sb/>
                   <measure xml:id="y1fsy7ml" facs="#zone_01KE7Z2QJSRNX59GTX62X1Q8R6" n="21">
                      <staff xml:id="hywgfqi" n="1">
                         <layer xml:id="jhki1ic" n="1">
                            <beam xml:id="k10lb3b5">
-                              <tuplet xml:id="l2bhyqy" num="3" numbase="2">
+                              <tuplet xml:id="l2bhyqy" num="3" num.place="below" numbase="2">
                                  <note xml:id="malxyhe" dur="8" oct="4" pname="e" stem.dir="up"/>
                                  <note xml:id="n10yul44" dur="8" oct="4" pname="g" stem.dir="up">
                                     <accid xml:id="o1gqnx1f" accid="s"/>
@@ -743,13 +747,15 @@
                                     <accid xml:id="voc3zoq" accid="s"/>
                                  </note>
                                  <note xml:id="w354idv" dur="16" oct="5" pname="b" stem.dir="down"/>
-                                 <note xml:id="x1168mlr" dur="16" oct="5" pname="e" stem.dir="down"/>
-                                 <note xml:id="ydoxs2o" accid.ges="s" dur="16" oct="5" pname="g" stem.dir="down"/>
+                                 <note xml:id="x1168mlr" dur="16" oct="5" oct.ges="6" pname="e" stem.dir="down"/>
+                                 <note xml:id="ydoxs2o" dur="16" oct="5" oct.ges="6" pname="g" stem.dir="down">
+                                    <accid xml:id="a1rk4vv1" accid="s"/>
+                                 </note>
                               </tuplet>
                            </beam>
                            <beam xml:id="akg1i8x">
-                              <note xml:id="b89wdqd" dots="1" dur="8" oct="5" pname="b" stem.dir="down"/>
-                              <note xml:id="c1m3x2v1" dur="16" oct="6" pname="c" stem.dir="down"/>
+                              <note xml:id="b89wdqd" dots="1" dur="8" oct="5" oct.ges="6" pname="b" stem.dir="down"/>
+                              <note xml:id="c1m3x2v1" dur="16" oct="6" oct.ges="7" pname="c" stem.dir="down"/>
                            </beam>
                         </layer>
                      </staff>
@@ -770,22 +776,23 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="qesvap4" endid="#c1m3x2v1" startid="#p1xo7oyd"/>
+                     <octave xml:id="o74n35x2" dis="8" dis.place="above" endid="#d1ry9ns1" startid="#x1168mlr"/>
+                     <slur xml:id="sjgp67s1" endid="#c1m3x2v1" staff="1" startid="#malxyhe"/>
                   </measure>
                   <measure xml:id="dqouyxv" facs="#zone_01KE7Z2QJS0H7G06SRWGSMABWA" n="22">
                      <staff xml:id="mhwbuun" n="1">
                         <layer xml:id="n1xkojd3" n="1">
                            <beam xml:id="bh6kfa1">
-                              <note xml:id="od4dsix" dur="16" grace="acc" oct="5" pname="b" stem.dir="up"/>
-                              <note xml:id="p1ymwnnl" dur="16" grace="acc" oct="6" pname="c" stem.dir="up"/>
+                              <note xml:id="od4dsix" dur="16" grace="acc" oct="5" oct.ges="6" pname="b" stem.dir="up"/>
+                              <note xml:id="p1ymwnnl" dur="16" grace="acc" oct="6" oct.ges="7" pname="c" stem.dir="up"/>
                            </beam>
                            <beam xml:id="qmw91q8">
-                              <note xml:id="ry1pt08" dur="8" oct="5" pname="b" stem.dir="down"/>
-                              <note xml:id="t1hb79nj" dur="8" oct="5" pname="a" stem.dir="down"/>
-                              <note xml:id="ujd5fnc" dur="8" oct="5" pname="e" stem.dir="down"/>
-                              <note xml:id="v1uou9w4" dur="8" oct="5" pname="b" stem.dir="down"/>
+                              <note xml:id="ry1pt08" dur="8" oct="5" oct.ges="6" pname="b" stem.dir="down"/>
+                              <note xml:id="t1hb79nj" dur="8" oct="5" oct.ges="6" pname="a" stem.dir="down"/>
+                              <note xml:id="ujd5fnc" dur="8" oct="5" oct.ges="6" pname="e" stem.dir="down"/>
+                              <note xml:id="v1uou9w4" dur="8" oct="5" oct.ges="6" pname="b" stem.dir="down"/>
                            </beam>
-                           <note xml:id="w8td28h" dur="4" oct="5" pname="a" stem.dir="down"/>
+                           <note xml:id="w8td28h" dur="4" oct="5" oct.ges="6" pname="a" stem.dir="down"/>
                         </layer>
                      </staff>
                      <staff xml:id="kv07x4d" n="2">
@@ -809,18 +816,18 @@
                      <staff xml:id="gb9plnz" n="1">
                         <layer xml:id="htp848o" n="1">
                            <beam xml:id="bjzc4h81">
-                              <note xml:id="i1cmeefk" dur="16" grace="acc" oct="5" pname="a" stem.dir="up"/>
-                              <note xml:id="jr23pub" dur="16" grace="acc" oct="5" pname="b" stem.dir="up"/>
+                              <note xml:id="i1cmeefk" dur="16" grace="acc" oct="5" oct.ges="6" pname="a" stem.dir="up"/>
+                              <note xml:id="jr23pub" dur="16" grace="acc" oct="5" oct.ges="6" pname="b" stem.dir="up"/>
                            </beam>
                            <beam xml:id="k1s75mj5">
-                              <note xml:id="l1o073pr" dur="8" oct="5" pname="a" stem.dir="down"/>
-                              <note xml:id="m1i801d1" dur="8" oct="5" pname="g" stem.dir="down">
-                                 <accid xml:id="nywczh" accid="s"/>
+                              <note xml:id="l1o073pr" dur="8" oct="5" oct.ges="6" pname="a" stem.dir="down"/>
+                              <note xml:id="m1i801d1" dur="8" oct="5" oct.ges="6" pname="g" stem.dir="down">
+                                 <accid xml:id="akd25rv2" accid="s"/>
                               </note>
-                              <note xml:id="pzp216c" dur="8" oct="5" pname="e" stem.dir="down"/>
-                              <note xml:id="qat2lk6" dur="8" oct="6" pname="e" stem.dir="down"/>
+                              <note xml:id="pzp216c" dur="8" oct="5" oct.ges="6" pname="e" stem.dir="down"/>
+                              <note xml:id="qat2lk6" dur="8" oct="6" oct.ges="7" pname="e" stem.dir="down"/>
                            </beam>
-                           <note xml:id="r1r8n6py" dur="4" oct="6" pname="e" stem.dir="down"/>
+                           <note xml:id="r1r8n6py" dur="4" oct="6" oct.ges="7" pname="e" stem.dir="down"/>
                         </layer>
                      </staff>
                      <staff xml:id="e11vrnrc" n="2">
@@ -838,12 +845,12 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="oea5qnq" endid="#d1ry9ns1" startid="#m1i801d1"/>
+                     <slur xml:id="s4usxvr1" endid="#d1ry9ns1" staff="1" startid="#l1o073pr"/>
                   </measure>
                   <measure xml:id="s1eua8gm" facs="#zone_01KE7Z2QJS0S3R9DHQQDMPTN1T" n="24" right="rptend">
                      <staff xml:id="bofhpi3" n="1">
                         <layer xml:id="c10tljx9" n="1">
-                           <note xml:id="d1ry9ns1" dur="2" oct="5" pname="a" stem.dir="down"/>
+                           <note xml:id="d1ry9ns1" dur="2" oct="5" oct.ges="6" pname="a" stem.dir="down"/>
                            <rest xml:id="e1mz9yro" dur="4" dur.ppq="60"/>
                         </layer>
                      </staff>
@@ -889,9 +896,10 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="t1gxdp6c" endid="#uzqoh6b" startid="#s1bp768b"/>
                      <dynam xml:id="t19jof4l" place="above" staff="2" tstamp="1" val="49" vgrp="2023">p</dynam>
+                     <slur xml:id="scpuaho2" endid="#uzqoh6b" staff="1" startid="#rfa7nuo"/>
                   </measure>
+                  <pb/>
                   <measure xml:id="w43fcta" facs="#zone_01KE7Z2QJVZ5HXZ8KWDRGFC1WG" n="26">
                      <staff xml:id="f179jsnu" n="1">
                         <layer xml:id="ha5anex" n="1">
@@ -947,13 +955,15 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="be9dx67" endid="#f101wxt4" startid="#a143aq95"/>
+                     <slur xml:id="sa698ma1" endid="#f101wxt4" staff="1" startid="#zh16eso"/>
                   </measure>
                   <measure xml:id="g1n313j2" facs="#zone_01KE7Z2QJVPKKY4A5GH0STQ8ZY" n="28">
                      <staff xml:id="pkmd7yw" n="1">
                         <layer xml:id="q6u73qw" n="1">
-                           <note xml:id="rdlvo4z" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
-                           <note xml:id="s1fcam63" dur="16" grace="acc" oct="5" pname="f" stem.dir="up"/>
+                           <beam xml:id="bjvs24s1">
+                              <note xml:id="rdlvo4z" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
+                              <note xml:id="s1fcam63" dur="16" grace="acc" oct="5" pname="f" stem.dir="up"/>
+                           </beam>
                            <beam xml:id="t1hzz7e9">
                               <note xml:id="u1z0aqhs" dur="8" oct="5" pname="e" stem.dir="down"/>
                               <note xml:id="w30jeyc" dur="8" oct="5" pname="d" stem.dir="down">
@@ -1035,6 +1045,7 @@
                      </staff>
                      <slur xml:id="d7kfsr7" endid="#fzsrxvq" startid="#cwfe3b7"/>
                   </measure>
+                  <sb/>
                   <measure xml:id="g105c6pc" facs="#zone_01KE7Z2QJV4CCBSX0V86PYYR52" n="31">
                      <staff xml:id="ps5i7qi" n="1">
                         <layer xml:id="r1qp43ek" n="1">
@@ -1068,6 +1079,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="vlhdqps" endid="#x11uwjd6" startid="#tga64bb"/>
+                     <dir xml:id="d8664p6" place="between" staff="1 2" startid="#tga64bb">cresc.</dir>
                   </measure>
                   <measure xml:id="b1p6ghpe" facs="#zone_01KE7Z2QJVPE28HK31DRVG05PX" n="32">
                      <staff xml:id="k1qt0qyk" n="1">
@@ -1130,8 +1142,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="hdrebi8" endid="#hufm96j" startid="#fm1drkc"/>
-                     <dynam xml:id="e11madht" place="above" staff="2" tstamp="1" val="75" vgrp="2011">mf</dynam>
+                     <dynam xml:id="e11madht" place="between" staff="1 2" tstamp="1" val="75" vgrp="2011">mf</dynam>
+                     <slur xml:id="svais6c" endid="#i17j2ad" staff="1" startid="#e1s0qsh8" vo="1"/>
                   </measure>
                   <measure xml:id="np52k1v" facs="#zone_01KE7Z2QJV6AMPHH451XAYEJZR" n="34">
                      <staff xml:id="w1meizly" n="1">
@@ -1174,10 +1186,12 @@
                   <measure xml:id="klctmbo" facs="#zone_01KE7Z2QJVP7XBDT3NJE8589T5" n="35">
                      <staff xml:id="t18bh9vv" n="1">
                         <layer xml:id="ufypz87" n="1">
-                           <note xml:id="v1r409il" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
-                           <note xml:id="w1ulae5c" dur="16" grace="acc" oct="5" pname="f" stem.dir="up">
-                              <accid xml:id="xr70epc" accid="s"/>
-                           </note>
+                           <beam xml:id="b8m1hc5">
+                              <note xml:id="v1r409il" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
+                              <note xml:id="w1ulae5c" dur="16" grace="acc" oct="5" pname="f" stem.dir="up">
+                                 <accid xml:id="xr70epc" accid="s"/>
+                              </note>
+                           </beam>
                            <beam xml:id="ybq6gab">
                               <note xml:id="z92qfa0" dur="8" oct="5" pname="e" stem.dir="down"/>
                               <note xml:id="bg98jzj" dur="8" oct="5" pname="d" stem.dir="down"/>
@@ -1206,15 +1220,18 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="as2dt25" endid="#xdxh8da" startid="#z92qfa0"/>
+                     <slur xml:id="sgp8u7o2" curvedir="above" endid="#g91e4ru" staff="1" startid="#v1r409il"/>
                   </measure>
+                  <sb/>
                   <measure xml:id="h186hj9u" facs="#zone_01KE7Z2QJVD4BDNJ6M9336SAAT" n="36">
                      <staff xml:id="q1xim3o3" n="1">
                         <layer xml:id="s1md6xuy" n="1">
-                           <note xml:id="t48cxls" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
-                           <note xml:id="ucaajg1" dur="16" grace="acc" oct="5" pname="f" stem.dir="up">
-                              <accid xml:id="v1183jue" accid="s"/>
-                           </note>
+                           <beam xml:id="bu8ej5n2">
+                              <note xml:id="t48cxls" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
+                              <note xml:id="ucaajg1" dur="16" grace="acc" oct="5" pname="f" stem.dir="up">
+                                 <accid xml:id="v1183jue" accid="s"/>
+                              </note>
+                           </beam>
                            <beam xml:id="w1ak45v2">
                               <note xml:id="xdxh8da" dur="8" oct="5" pname="e" stem.dir="down"/>
                               <note xml:id="y9dxwfs" dur="8" oct="5" pname="c" stem.dir="down">
@@ -1245,6 +1262,7 @@
                            </chord>
                         </layer>
                      </staff>
+                     <slur xml:id="s7sztfo1" curvedir="above" endid="#da1flk1" staff="1" startid="#t48cxls"/>
                   </measure>
                   <measure xml:id="edm9k9k" facs="#zone_01KE7Z2QJVDC0HC2DHSDMQG9WR" n="37">
                      <staff xml:id="nqykagm" n="1">
@@ -1280,7 +1298,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="t15zxabk" endid="#t155n76s" startid="#r1jcfhvd"/>
+                     <slur xml:id="stluywn2" endid="#u45lv7g" staff="1" startid="#q184mzd3" vo="1"/>
                   </measure>
                   <measure xml:id="z9x8pdq" facs="#zone_01KE7Z2QJVRKQXS5AW91796JQT" n="38">
                      <staff xml:id="iz0wzl8" n="1">
@@ -1318,15 +1336,17 @@
                            </chord>
                         </layer>
                      </staff>
-                     <mordent xml:id="n14ua241" form="upper" staff="1" startid="#lhqej9o"/>
+                     <mordent xml:id="n14ua241" form="upper" staff="1" startid="#lhqej9o" vo="-0.5"/>
                   </measure>
                   <measure xml:id="w1dbh8mn" facs="#zone_01KE7Z2QJVVS5A4EJN11NSEMK6" n="39">
                      <staff xml:id="f1nwa2au" n="1">
                         <layer xml:id="gl7r8q0" n="1">
-                           <note xml:id="h18fb1h" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
-                           <note xml:id="i4kw7mx" dur="16" grace="acc" oct="5" pname="f" stem.dir="up">
-                              <accid xml:id="j1pny11o" accid="s"/>
-                           </note>
+                           <beam xml:id="b846lid">
+                              <note xml:id="h18fb1h" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
+                              <note xml:id="i4kw7mx" dur="16" grace="acc" oct="5" pname="f" stem.dir="up">
+                                 <accid xml:id="j1pny11o" accid="s"/>
+                              </note>
+                           </beam>
                            <beam xml:id="k4n2azg">
                               <note xml:id="l1mys4fd" dur="8" oct="5" pname="e" stem.dir="down"/>
                               <note xml:id="n62axzq" dur="8" oct="5" pname="d" stem.dir="down"/>
@@ -1357,6 +1377,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="m1mvo98u" startid="#l1mys4fd"/>
+                     <slur xml:id="sx7c17y1" curvedir="above" endid="#g1tm3udg" staff="1" startid="#h18fb1h"/>
                   </measure>
                   <measure xml:id="v1odwgnd" facs="#zone_01KE7Z2QJV1FC2PH83GRSQK7EZ" n="40" right="rptend">
                      <staff xml:id="e1nyxdib" n="1">
@@ -1378,8 +1399,9 @@
                            <rest xml:id="g19w35w7" dur="4" dur.ppq="1"/>
                         </layer>
                      </staff>
-                     <dynam xml:id="i1jjnsqe" place="above" staff="1" tstamp="3" val="49" vgrp="86">p</dynam>
+                     <dynam xml:id="i1jjnsqe" place="between" staff="1 2" tstamp="3" val="49" vgrp="86">p</dynam>
                   </measure>
+                  <sb/>
                   <measure xml:id="l1tk40iq" facs="#zone_01KE7Z2QJVHDXCG7VX0T189QH7" n="41">
                      <staff xml:id="uct7n1f" n="1">
                         <layer xml:id="wst2snn" n="1">
@@ -1463,13 +1485,15 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="h4a02m" endid="#l11d59k6" startid="#g367dzh"/>
+                     <slur xml:id="sfonqmq1" endid="#l11d59k6" staff="1" startid="#f13wnlsf"/>
                   </measure>
                   <measure xml:id="m6dx9by" facs="#zone_01KE7Z2QJWB1JV0A5MWDQNSYQ8" n="44">
                      <staff xml:id="v1p4airv" n="1">
                         <layer xml:id="w14nbtnw" n="1">
-                           <note xml:id="x1c6x4ur" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
-                           <note xml:id="y7v1i76" dur="16" grace="acc" oct="5" pname="f" stem.dir="up"/>
+                           <beam xml:id="bwyhqg51">
+                              <note xml:id="x1c6x4ur" dur="16" grace="acc" oct="5" pname="e" stem.dir="up"/>
+                              <note xml:id="y7v1i76" dur="16" grace="acc" oct="5" pname="f" stem.dir="up"/>
+                           </beam>
                            <beam xml:id="zst429l">
                               <note xml:id="a1sum5n" dur="8" oct="5" pname="e" stem.dir="down"/>
                               <note xml:id="cf7y0fs" dur="8" oct="5" pname="d" stem.dir="down">
@@ -1524,6 +1548,7 @@
                      </staff>
                      <slur xml:id="s1gmsw4" endid="#uhzi2is" startid="#ron9q6d"/>
                   </measure>
+                  <sb/>
                   <measure xml:id="w18xljp2" facs="#zone_01KE7Z2QJW9BFHMF5DAC658G2K" n="46">
                      <staff xml:id="f1dbmjqy" n="1">
                         <layer xml:id="hgkgb12" n="1">
@@ -1579,7 +1604,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="b594if7" endid="#r1vj6npm" startid="#a1o3e4un"/>
+                     <slur xml:id="so9xmvq1" endid="#r1vj6npm" staff="1" startid="#z1btzikp"/>
                   </measure>
                   <measure xml:id="g1yvebf8" facs="#zone_01KE7Z2QJWJ6EV1N5C1NZD2GW2" n="48">
                      <staff xml:id="p9ct0rw" n="1">
@@ -1599,7 +1624,7 @@
                            <rest xml:id="gwzxmcy" dur="4" dur.ppq="1"/>
                         </layer>
                      </staff>
-                     <dynam xml:id="tu2bm03" place="above" staff="1" tstamp="3" val="75" vgrp="86">mf</dynam>
+                     <dynam xml:id="tu2bm03" place="between" staff="1 2" tstamp="3" val="75" vgrp="86">mf</dynam>
                   </measure>
                   <measure xml:id="wcptm4q" facs="#zone_01KE7Z2QJW1JZM0C1Z6EEAKDYM" n="49">
                      <staff xml:id="f19qepx" n="1">
@@ -1627,7 +1652,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="k3tbeq7" endid="#l13c6msq" startid="#j1777hc0"/>
+                     <slur xml:id="sevm57a" endid="#l13c6msq" staff="1" startid="#iftx981"/>
                   </measure>
                   <measure xml:id="n1o31g9g" facs="#zone_01KE7Z2QJXJV34MXBFA9WQ7TCB" n="50">
                      <staff xml:id="w1u75qx1" n="1">
@@ -1690,9 +1715,10 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="qof1aak" endid="#x18yq6ng" startid="#p6paex0"/>
-                     <mordent xml:id="r1svea4s" form="upper" staff="1" startid="#p6paex0"/>
+                     <mordent xml:id="r1svea4s" form="upper" staff="1" startid="#p6paex0" vo="0.5"/>
+                     <slur xml:id="somebm5" curvedir="above" endid="#l1708viy" staff="1" startid="#p6paex0"/>
                   </measure>
+                  <sb/>
                   <measure xml:id="zl6zqtb" facs="#zone_01KE7Z2QJY29S9SHM9HNMAWBAR" n="52">
                      <staff xml:id="i1bf4y33" n="1">
                         <layer xml:id="kqxual3" n="1">
@@ -1740,7 +1766,7 @@
                            <rest xml:id="b7c8r47" dur="4" dur.ppq="1"/>
                         </layer>
                      </staff>
-                     <slur xml:id="c16c9snl" endid="#x1aetp94" startid="#b1kmo1av"/>
+                     <slur xml:id="sx5bk57" endid="#yy8jgsh" staff="1" startid="#a1tue9po"/>
                   </measure>
                   <measure xml:id="g1ss2npa" facs="#zone_01KE7Z2QJYJF25MMWQXPYWWVB5" n="54">
                      <staff xml:id="pkkxhsj" n="1">
@@ -1799,7 +1825,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <slur xml:id="n1dks0xy" endid="#s1galqwf" startid="#m1ngjkah"/>
+                     <slur xml:id="s2eqnp01" endid="#ti4l9xx" staff="1" startid="#m1ngjkah"/>
+                     <trill xml:id="t4lgbge1" endid="#p1912etw" extender="true" staff="1" startid="#m1ngjkah"/>
                   </measure>
                   <measure xml:id="vel46sw" facs="#zone_01KE7Z2QJY0BRECP30WQY75TS8" n="56" right="end">
                      <staff xml:id="evagcmk" n="1">
