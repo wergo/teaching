@@ -23,7 +23,7 @@
                <name xml:id="n1ngs2m7">Verovio</name>
                <p xml:id="p14n24vf">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:47:04">
+            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:50:48">
                <name xml:id="nqiuasf">mei-friend</name>
                <p xml:id="pewvzol1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -189,7 +189,9 @@
                         </layer>
                      </staff>
                      <slur xml:id="i1olvnyo" endid="#k1lay0v6" startid="#h12kc7b"/>
-                     <dir xml:id="dmws6fa1" staff="2" startid="#o1sluidl"><rend fontsize="large">ped. simile</rend></dir>
+                     <dir xml:id="dmws6fa1" ho="-1.5" staff="2" startid="#o1sluidl" vo="-0.5">
+                        <rend fontsize="large">ped. simile</rend>
+                     </dir>
                   </measure>
                   <measure xml:id="lnlm9ib" facs="#zone_01KE7Z2QJQJW9JAJHDQTFT5K7V" n="3">
                      <staff xml:id="ugic80" n="1">
@@ -1828,7 +1830,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="s2eqnp01" endid="#ti4l9xx" staff="1" startid="#m1ngjkah"/>
-                     <trill xml:id="t4lgbge1" endid="#p1912etw" extender="true" staff="1" startid="#m1ngjkah"/>
+                     <trill xml:id="tkxjddi1" extender="true" ho="-0.5" staff="1" tstamp="1" tstamp2="2" vo="-0.5"/>
                   </measure>
                   <measure xml:id="vel46sw" facs="#zone_01KE7Z2QJY0BRECP30WQY75TS8" n="56" right="end">
                      <staff xml:id="evagcmk" n="1">
