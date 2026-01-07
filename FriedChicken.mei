@@ -21,7 +21,7 @@
                <name xml:id="nxtwumq">Verovio</name>
                <p xml:id="popb9wp">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amgbbtd" enddate="2026-01-07T16:50:19" startdate="2026-01-07T14:35:27" version="1.2.10">
+            <application xml:id="amgbbtd" enddate="2026-01-07T16:55:24" startdate="2026-01-07T14:35:27" version="1.2.10">
                <name xml:id="ntnq6sy1">mei-friend</name>
                <p xml:id="pme3fwt1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -403,8 +403,9 @@
                         </layer>
                      </staff>
                      <harm xml:id="wstj756" staff="1" tstamp="1">B7</harm>
-                     <tie xml:id="toxwrtp2" endid="#fiqzk9b" staff="1" startid="#t1nqa4ly"/>
-                     <tie xml:id="t0f4x46" endid="#fiqzk9b" staff="1" startid="#qtdbfw5"/>
+                     <ti xml:id="toxwrtp2" endid="#fiqzk9b" staff="1" startid="#t1nqa4ly"/>
+                     <tie xml:id="tz5iclm1" endid="#hyvg3yf" staff="1" startid="#t1nqa4ly"/>
+                     <tie xml:id="te1eux7" endid="#fiqzk9b" staff="1" startid="#qtdbfw5"/>
                   </measure>
                   <measure xml:id="u1m6q7ai" n="13">
                      <staff xml:id="dyszi5v" n="1">
