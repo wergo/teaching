@@ -18,7 +18,7 @@
                <name xml:id="n1bpt4w1">Verovio</name>
                <p xml:id="pg2azqd">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="av2jmtb1" enddate="2026-01-07T14:05:03" startdate="2025-12-31T13:09:09" version="1.2.10">
+            <application xml:id="av2jmtb1" enddate="2026-01-07T14:06:50" startdate="2025-12-31T13:09:09" version="1.2.10">
                <name xml:id="n69culv1">mei-friend</name>
                <p xml:id="p0a7yuc1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -1258,11 +1258,13 @@
                      <staff xml:id="u1gmlw0i" n="2">
                         <layer xml:id="v1sj3tok" n="1">
                            <chord xml:id="y1soyed8" dur="2" stem.dir="down">
-                              <note xml:id="xpt2jow" oct="5" pname="c"/>
-                              <note xml:id="aoa3baw" oct="5" pname="e">
-                                 <accid xml:id="a6bdigi1" accid="s"/>
+                              <note xml:id="xpt2jow" oct="5" pname="c">
+                                 <accid xml:id="am9bgkh" accid="s"/>
                               </note>
-                              <note xml:id="cbt9ewn" oct="5" pname="f"/>
+                              <note xml:id="aoa3baw" oct="5" pname="e"/>
+                              <note xml:id="cbt9ewn" oct="5" pname="f">
+                                 <accid xml:id="afmijly1" accid="s"/>
+                              </note>
                            </chord>
                         </layer>
                      </staff>
