@@ -23,7 +23,7 @@
                <name xml:id="n1ngs2m7">Verovio</name>
                <p xml:id="p14n24vf">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:39:14">
+            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:42:44">
                <name xml:id="nqiuasf">mei-friend</name>
                <p xml:id="pewvzol1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -132,6 +132,7 @@
                      </staff>
                      <tempo xml:id="x1bbne4c" mm="120" mm.unit="4" place="above" staff="1" tstamp="1"/>
                      <slur xml:id="e13ukk3e" endid="#t1lhm2p1" startid="#dzd2etp"/>
+                     <dynam xml:id="dhklimh" place="between" staff="1 2" startid="#dzd2etp">mf</dynam>
                   </measure>
                   <measure xml:id="f1vsapbz" facs="#zone_01KE7Z2QJPX4HMQV00PBMTD6GJ" n="1">
                      <staff xml:id="o8ao0hh" n="1">
@@ -188,6 +189,7 @@
                         </layer>
                      </staff>
                      <slur xml:id="i1olvnyo" endid="#k1lay0v6" startid="#h12kc7b"/>
+                     <dir xml:id="dmws6fa1" staff="2" startid="#o1sluidl"><rend fontsize="large">ped. simile</rend></dir>
                   </measure>
                   <measure xml:id="lnlm9ib" facs="#zone_01KE7Z2QJQJW9JAJHDQTFT5K7V" n="3">
                      <staff xml:id="ugic80" n="1">
@@ -1336,7 +1338,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <mordent xml:id="n14ua241" form="upper" staff="1" startid="#lhqej9o" vo="-0.5"/>
+                     <mordent xml:id="n14ua241" form="upper" staff="1" startid="#lhqej9o" vo="-3"/>
                   </measure>
                   <measure xml:id="w1dbh8mn" facs="#zone_01KE7Z2QJVVS5A4EJN11NSEMK6" n="39">
                      <staff xml:id="f1nwa2au" n="1">
