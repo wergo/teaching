@@ -18,7 +18,7 @@
                <name xml:id="nxtwumq">Verovio</name>
                <p xml:id="popb9wp">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amgbbtd" enddate="2026-01-07T14:43:41" startdate="2026-01-07T14:35:27" version="1.2.10">
+            <application xml:id="amgbbtd" enddate="2026-01-07T16:34:49" startdate="2026-01-07T14:35:27" version="1.2.10">
                <name xml:id="ntnq6sy1">mei-friend</name>
                <p xml:id="pme3fwt1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -351,7 +351,7 @@
                            <note xml:id="d7j0zoj" accid.ges="s" dur="2" dur.ppq="4" oct="3" pname="f" stem.dir="down"/>
                         </layer>
                      </staff>
-                     <harm xml:id="p1b3vl9l" staff="1" tstamp="1">Fm7</harm>
+                     <harm xml:id="p1b3vl9l" staff="1" tstamp="1">F♯m7</harm>
                      <tie xml:id="i12eiivd" endid="#z17vr7ye" startid="#fftu3h8"/>
                      <tie xml:id="k1uty42t" endid="#cg3h5g0" startid="#j1e3pgz8"/>
                   </measure>
@@ -511,7 +511,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <harm xml:id="i19hbf9o" staff="1" tstamp="1">A</harm>
+                     <harm xml:id="i19hbf8o" staff="1" tstamp="1">A</harm>
+                     <harm xml:id="i19hbf9o" staff="1" tstamp="3">A/C♯</harm>
                      <tie xml:id="absp2lu" endid="#rsx78oe" startid="#y1il85wt"/>
                      <tie xml:id="d150gcce" endid="#t14cjrq0" startid="#b1adr2u5"/>
                   </measure>
@@ -552,6 +553,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="o1waq6az" staff="1" tstamp="1">D</harm>
+                     <harm xml:id="o1waq7az" staff="1" tstamp="3">E11</harm>
                      <tie xml:id="kwnxgfo" endid="#z127ou32" startid="#i45n5uh"/>
                   </measure>
                   <sb xml:id="vr4c2q9"/>
@@ -593,6 +595,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="ws32khk" staff="1" tstamp="1">A</harm>
+                     <harm xml:id="ir9hbf9o" staff="1" tstamp="3">A/C♯</harm>
                      <tie xml:id="t4ch0po1" endid="#g1qz0nhu" staff="1" startid="#p13txr2v"/>
                      <tie xml:id="tqnvj4o2" endid="#e1mw4nbh" staff="1" startid="#n1di6d2f"/>
                   </measure>
@@ -633,6 +636,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="bp0bzax" staff="1" tstamp="1">D</harm>
+                     <harm xml:id="o1wqq7az" staff="1" tstamp="3">E11</harm>
                      <tie xml:id="vm5w5m4" endid="#j1hshu4g" startid="#t1e9o3ej"/>
                   </measure>
                   <measure xml:id="w17ni1k6" n="19">
@@ -716,6 +720,7 @@
                            <note xml:id="qbiuzcm" accid.ges="s" dur="2" dur.ppq="4" oct="3" pname="c" stem.dir="up"/>
                         </layer>
                      </staff>
+                     <harm xml:id="g1jd459v" staff="1" tstamp="1">F♯m7</harm>
                      <tie xml:id="k1ini3ko" endid="#eicb42g" startid="#hzzxjns"/>
                      <tie xml:id="n1ba99rh" endid="#h1ipjesi" startid="#lz4b4ju"/>
                      <tie xml:id="p1que6o6" endid="#j1p343ww" startid="#otkx6os"/>
@@ -767,7 +772,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <harm xml:id="a1kr6l2r" staff="1" tstamp="1">DMaj7</harm>
+                     <harm xml:id="a1kr6l2r" staff="1" tstamp="1">Dmaj7</harm>
                      <tie xml:id="r1dq35u2" endid="#vt3w7hg" startid="#pwnuk3"/>
                      <tie xml:id="j9ddne7" endid="#n2yshj2" startid="#ga16kuc"/>
                      <tie xml:id="mlo0zcx" endid="#qu13zrb" startid="#k1ju6o9"/>
@@ -919,7 +924,7 @@
                            </chord>
                         </layer>
                      </staff>
-                     <harm xml:id="r12ukkvm" staff="1" tstamp="1">Fm7</harm>
+                     <harm xml:id="g1j94f9v" staff="1" tstamp="1">F♯m7</harm>
                      <tie xml:id="tt5j06i1" endid="#zsg9lnx" staff="1" startid="#y8uyx9r"/>
                   </measure>
                   <measure xml:id="rd2d0vr" n="25">
@@ -1019,8 +1024,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <harm xml:id="kjyj6ty" staff="1" tstamp="1">DMaj7</harm>
-                     <dir xml:id="w19c2chl" place="above" staff="1" tstamp="3" vgrp="2110">Ell</dir>
+                     <harm xml:id="kjyj6ty" staff="1" tstamp="1">Dmaj7</harm>
+                     <harm xml:id="kjyj7ty" staff="1" tstamp="3">E11</harm>
                      <tie xml:id="d5ou5e3" endid="#g1yy38d5" startid="#b1md7bv2"/>
                      <tie xml:id="f1115r7s" endid="#i17ryo4o" startid="#exwv4ac"/>
                      <tie xml:id="tttcool2" endid="#z16uk4kq" staff="1" startid="#u5l2u9x"/>
@@ -1067,7 +1072,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="expsljw" staff="1" tstamp="1">A</harm>
-                     <harm xml:id="o1rf3tyx" staff="1" tstamp="3">A/G♯</harm>
+                     <harm xml:id="o1rf3tyx" staff="1" tstamp="3">A/C♯</harm>
                      <tie xml:id="y1l9avw4" endid="#prbzmx2" startid="#w13rddnh"/>
                      <tie xml:id="b13fn5a8" endid="#r1wkgnrl" startid="#ziweg8z"/>
                   </measure>
@@ -1108,7 +1113,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="m1y3939b" staff="1" tstamp="1">D</harm>
-                     <dir xml:id="b1981a6e" place="above" staff="1" tstamp="3.5" vgrp="2010">Ell</dir>
+                     <harm xml:id="m1y3339b" staff="1" tstamp="3">E11</harm>
                      <tie xml:id="tynp1de" endid="#v65238p" staff="1" startid="#gkb6qir"/>
                   </measure>
                   <measure xml:id="iixq5kg" n="29">
@@ -1190,6 +1195,7 @@
                         </layer>
                      </staff>
                      <harm xml:id="b1fp14tq" staff="1" tstamp="1">D</harm>
+                     <harm xml:id="b1fp15tq" staff="1" tstamp="3">E11</harm>
                      <tie xml:id="uwae4js" endid="#i15e3l4o" startid="#t1k20gja"/>
                   </measure>
                   <measure xml:id="vg0apmn" n="31">
@@ -1227,7 +1233,6 @@
                      <harm xml:id="f1q4k876" staff="1" tstamp="1">Fm7</harm>
                      <tie xml:id="t73iwr61" endid="#h2pp92n" staff="1" startid="#r7lmcpu"/>
                   </measure>
-                  <pb xml:id="d8qtj9j"/>
                   <measure xml:id="t1nrlxp0" n="32">
                      <staff xml:id="ci647nl" n="1">
                         <layer xml:id="ghhgk90" n="1">
@@ -1290,6 +1295,7 @@
                            </chord>
                         </layer>
                      </staff>
+                     <harm xml:id="ejkdito" staff="1" tstamp="1">E11</harm>
                      <tie xml:id="q1isaa49" endid="#e19am2c7" startid="#o1l4b74m"/>
                   </measure>
                   <measure xml:id="r1s2f2p0" n="34">
@@ -1464,6 +1470,7 @@
                            </note>
                         </layer>
                      </staff>
+                     <harm xml:id="ejkdfto" staff="1" tstamp="1">E11</harm>
                      <harm xml:id="t15ddwwx" staff="1" tstamp="4.5">A</harm>
                   </measure>
                </section>
