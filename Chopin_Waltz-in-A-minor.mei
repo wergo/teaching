@@ -23,7 +23,7 @@
                <name xml:id="n1ngs2m7">Verovio</name>
                <p xml:id="p14n24vf">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:42:44">
+            <application xml:id="ak8oswf" startdate="2026-01-07T17:06:36" version="1.2.10" enddate="2026-01-07T17:47:04">
                <name xml:id="nqiuasf">mei-friend</name>
                <p xml:id="pewvzol1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -130,7 +130,7 @@
                            <rest xml:id="ehgpw7s" dur="4" dur.ppq="1"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="x1bbne4c" mm="120" mm.unit="4" place="above" staff="1" tstamp="1"/>
+                     <tempo xml:id="x1bbne4c" mm="120" mm.unit="4" place="above" staff="1" tstamp="1">(Allegretto)</tempo>
                      <slur xml:id="e13ukk3e" endid="#t1lhm2p1" startid="#dzd2etp"/>
                      <dynam xml:id="dhklimh" place="between" staff="1 2" startid="#dzd2etp">mf</dynam>
                   </measure>
