@@ -836,7 +836,7 @@
                               <note xml:id="p175obol" accid.ges="f" dur="16" oct="4" pname="a" stem.dir="up"/>
                            </beam>
                            <beam xml:id="bqq5o1z1">
-                              <note xml:id="s1njtzhi" accid.ges="f" dur="16" oct="4" pname="b" stem.dir="up">
+                              <note xml:id="s1njtzhi" dur="16" oct="4" pname="b" stem.dir="up">
                                  <accid xml:id="a9meioy2" accid="n"/>
                               </note>
                               <note xml:id="uc0i8vl" dur="8" oct="5" pname="d" stem.dir="up"/>
