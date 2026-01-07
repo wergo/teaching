@@ -18,7 +18,7 @@
                <name xml:id="n1bpt4w1">Verovio</name>
                <p xml:id="pg2azqd">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="av2jmtb1" enddate="2026-01-02T12:25:10" startdate="2025-12-31T13:09:09" version="1.2.10">
+            <application xml:id="av2jmtb1" enddate="2026-01-07T14:05:03" startdate="2025-12-31T13:09:09" version="1.2.10">
                <name xml:id="n69culv1">mei-friend</name>
                <p xml:id="p0a7yuc1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -648,7 +648,7 @@
                   <measure xml:id="ocl4ckg" facs="#zone_01KDT4TC3E56V2K664YAXZS55N" n="14">
                      <staff xml:id="x1nzysoo" n="1">
                         <layer xml:id="a128xc8p" n="1">
-                           <rest xml:id="b1rn8xii" dur="4" dur.ppq="2"/>
+                           <rest xml:id="b1rn8xii" dots="1" dur="4" dur.ppq="2"/>
                            <beam xml:id="d93xm7p">
                               <note xml:id="e1jzo591" dur="8" oct="4" pname="b" stem.dir="down">
                                  <accid xml:id="fivmvyk" accid="f"/>
