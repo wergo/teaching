@@ -23,7 +23,7 @@
                <name xml:id="nu8azlc">Verovio</name>
                <p xml:id="p1vw5oav">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="almhqu3" enddate="2026-01-05T17:34:35" startdate="2026-01-05T16:25:25" version="1.2.10">
+            <application xml:id="almhqu3" enddate="2026-01-08T13:59:07" startdate="2026-01-05T16:25:25" version="1.2.10">
                <name xml:id="nb4r7et2">mei-friend</name>
                <p xml:id="pjrpl3a1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -656,7 +656,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <hairpin xml:id="h5n2fwq1" form="dim" place="above" staff="1" tstamp="1.1" tstamp2="1.65" endvo="-2"/>
+                     <hairpin xml:id="h5n2fwq1" endvo="-2" form="dim" place="above" staff="1" tstamp="1.1" tstamp2="1.65"/>
                      <slur xml:id="srienql2" curvedir="below" endid="#c1bbu500" staff="2" startid="#o5gob43"/>
                      <slur xml:id="syztut6" curvedir="below" endid="#hx8ime0" staff="2" startid="#s1h5i8d9"/>
                   </measure>
@@ -822,6 +822,10 @@
                               <note xml:id="t1r6978f" accid.ges="f" dur="16" oct="3" pname="b" staff="1" stem.dir="down"/>
                               <note xml:id="vgbu1n" accid.ges="f" dur="16" oct="4" pname="e" staff="1" stem.dir="down"/>
                            </beam>
+                        </layer>
+                        <layer xml:id="lmebra6" n="2">
+                           <note xml:id="n0ovtm4" dur="4" oct="2" pname="f" stem.dir="down"/>
+                           <note xml:id="neuauy21" dur="4" oct="2" pname="g" stem.dir="down"/>
                         </layer>
                      </staff>
                      <slur xml:id="sbs2mi5" curvedir="below" endid="#vggu1n" staff="2" startid="#fzmrane"/>
@@ -1011,7 +1015,7 @@
                         <layer xml:id="cqkxx3d" n="2">
                            <space xml:id="faam1jr" dur="4" dur.ppq="4"/>
                            <note xml:id="dogvlku" accid.ges="f" dur="4" oct="3" pname="b" stem.dir="down"/>
-                           </layer>
+                        </layer>
                         <layer n="4">
                            <space dur="4" />
                            <space dur="16" />
