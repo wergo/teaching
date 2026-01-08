@@ -21,7 +21,7 @@
                <name xml:id="nxtwumq">Verovio</name>
                <p xml:id="popb9wp">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amgbbtd" enddate="2026-01-07T16:55:24" startdate="2026-01-07T14:35:27" version="1.2.10">
+            <application xml:id="amgbbtd" enddate="2026-01-08T13:27:47" startdate="2026-01-07T14:35:27" version="1.2.10">
                <name xml:id="ntnq6sy1">mei-friend</name>
                <p xml:id="pme3fwt1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -231,7 +231,7 @@
                   <measure xml:id="i1l3hmz7" n="8">
                      <staff xml:id="rijgd81" n="1">
                         <layer xml:id="u7xi63p" n="1">
-                           <note xml:id="vdrzegf" dur="4" oct="4" pname="d" stem.dir="up"/>
+                           <note xml:id="vdrzegf" accid.ges="s" dur="4" oct="4" pname="d" stem.dir="up"/>
                            <beam xml:id="wj5s37l">
                               <note xml:id="xa16l95" dur="8" oct="4" pname="a" stem.dir="up"/>
                               <note xml:id="y4fmms5" dur="8" oct="3" pname="a" stem.dir="up"/>
@@ -403,7 +403,6 @@
                         </layer>
                      </staff>
                      <harm xml:id="wstj756" staff="1" tstamp="1">B7</harm>
-                     <ti xml:id="toxwrtp2" endid="#fiqzk9b" staff="1" startid="#t1nqa4ly"/>
                      <tie xml:id="tz5iclm1" endid="#hyvg3yf" staff="1" startid="#t1nqa4ly"/>
                      <tie xml:id="te1eux7" endid="#fiqzk9b" staff="1" startid="#qtdbfw5"/>
                   </measure>
@@ -781,11 +780,11 @@
                         </layer>
                      </staff>
                      <harm xml:id="a1kr6l2r" staff="1" tstamp="1">Dmaj7</harm>
-                     <tie xml:id="r1dq35u2" endid="#vt3w7hg" startid="#pwnuk3"/>
-                     <tie xml:id="j9ddne7" endid="#n2yshj2" startid="#ga16kuc"/>
-                     <tie xml:id="mlo0zcx" endid="#qu13zrb" startid="#k1ju6o9"/>
-                     <tie xml:id="ttzq0vt2" endid="#d1er9vvo" staff="1" startid="#syu32hj"/>
-                     <tie xml:id="tdim1wu1" curvedir="below" endid="#a16gzd06" staff="1" startid="#pwnuk3"/>
+                     <tie xml:id="tzu5tyv2" endid="#vt3w7hg" staff="1" startid="#t7vhta2"/>
+                     <tie xml:id="tzq4xgb" endid="#d1er9vvo" staff="1" startid="#syu32hj"/>
+                     <tie xml:id="tb3q3bo2" curvedir="below" endid="#a16gzd06" staff="1" startid="#pwnuk3"/>
+                     <tie xml:id="tpm6ib61" endid="#qu13zrb" staff="2" startid="#k1ju6o9"/>
+                     <tie xml:id="thpuqqs2" endid="#n2yshj2" staff="2" startid="#ga16kuc"/>
                   </measure>
                   <measure xml:id="e732hcl" n="22">
                      <staff xml:id="n1pzc0nt" n="1">
@@ -933,6 +932,7 @@
                      </staff>
                      <harm xml:id="g1j94f9v" staff="1" tstamp="1">F♯m7</harm>
                      <tie xml:id="tt5j06i1" endid="#zsg9lnx" staff="1" startid="#y8uyx9r"/>
+                     <tie xml:id="ta8rxoz2" endid="#x2p0lq0" staff="1" startid="#v1by86pc"/>
                   </measure>
                   <measure xml:id="rd2d0vr" n="25">
                      <staff xml:id="a1lmx2z2" n="1">
@@ -1243,7 +1243,7 @@
                   <measure xml:id="t1nrlxp0" n="32">
                      <staff xml:id="ci647nl" n="1">
                         <layer xml:id="ghhgk90" n="1">
-                           <note xml:id="h2pp92n" dur="4" oct="4" pname="d" stem.dir="up"/>
+                           <note xml:id="h2pp92n" accid.ges="s" dur="4" oct="4" pname="d" stem.dir="up"/>
                            <beam xml:id="i1vcdqzd">
                               <note xml:id="j163iro8" dur="8" oct="4" pname="a" stem.dir="up"/>
                               <note xml:id="k2aa5pu" dur="8" oct="3" pname="a" stem.dir="up"/>
@@ -1341,9 +1341,9 @@
                         </layer>
                      </staff>
                      <harm xml:id="brdoez5" staff="1" tstamp="1">A</harm>
-                     <slur xml:id="oohiax1" endid="#i1iaxcwc" startid="#nbs9a3v"/>
                      <tie xml:id="z162s0wj" endid="#lo1tx5k" startid="#xq112h3"/>
                      <tie xml:id="tbm774l1" endid="#i1iaxcwc" staff="1" startid="#t1dnx28l"/>
+                     <tie xml:id="t1e0bbk1" endid="#kfzrjc1" staff="1" startid="#nbs9a3v"/>
                   </measure>
                   <measure xml:id="uiwhdav" n="35">
                      <staff xml:id="difvf3q" n="1">
