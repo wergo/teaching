@@ -64,7 +64,7 @@
             <score xml:id="dmxl84v">
                <scoreDef xml:id="e1r035j2">
                   <pgHead xml:id="j1n0985h" func="first">
-                     <rend xml:id="h1g93n59" halign="center" valign="top" fontsize="x-large">1. Arietta</rend>
+                     <rend xml:id="h1g93n59" halign="center" valign="top" fontsize="xx-large">1. Arietta</rend>
                      <rend xml:id="k1x3zzwk" halign="right" valign="bottom">Opus 12</rend>
                   </pgHead>
                   <pgFoot xml:id="obtu1bc">
