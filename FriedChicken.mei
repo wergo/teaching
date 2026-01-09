@@ -21,7 +21,7 @@
                <name xml:id="nxtwumq">Verovio</name>
                <p xml:id="popb9wp">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amgbbtd" enddate="2026-01-09T11:38:30" startdate="2026-01-07T14:35:27" version="1.2.10">
+            <application xml:id="amgbbtd" enddate="2026-01-09T11:40:52" startdate="2026-01-07T14:35:27" version="1.2.10">
                <name xml:id="ntnq6sy1">mei-friend</name>
                <p xml:id="pme3fwt1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -65,7 +65,7 @@
                            <mRest xml:id="x1r03ry9"/>
                         </layer>
                      </staff>
-                     <tempo xml:id="gg0mhb2" ho="0.5" midi.bpm="156" mm="156" mm.unit="4" place="above" staff="1" tstamp="1">
+                     <tempo xml:id="gg0mhb2" ho="0.5" midi.bpm="156" mm="156" mm.unit="4" place="above" staff="1" tstamp="1" vo="2.5">
                         <rend xml:id="hl9ls6x" fontsize="small" glyph.auth="smufl"> </rend>= 156</tempo>
                   </measure>
                   <measure xml:id="n5v5x8m" n="2">
