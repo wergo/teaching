@@ -21,7 +21,7 @@
                <name xml:id="nxtwumq">Verovio</name>
                <p xml:id="popb9wp">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="amgbbtd" enddate="2026-01-08T13:29:48" startdate="2026-01-07T14:35:27" version="1.2.10">
+            <application xml:id="amgbbtd" enddate="2026-01-09T11:38:30" startdate="2026-01-07T14:35:27" version="1.2.10">
                <name xml:id="ntnq6sy1">mei-friend</name>
                <p xml:id="pme3fwt1">First edit by mei-friend 1.2.10.</p>
             </application>
@@ -34,8 +34,8 @@
             <score xml:id="f1dtndjr">
                <scoreDef xml:id="g3gane8">
                   <pgHead xml:id="ptzeurd" func="first">
-                     <rend xml:id="rs437j3" fontsize="xx-large" halign="center">Fried Chicken</rend>
-                     <rend xml:id="rwcro8d1" fontsize="larger" halign="right">Jürgen Moser</rend>
+                     <rend xml:id="rs437j3" fontsize="xx-large" halign="center" valign="top">Fried Chicken</rend>
+                     <rend xml:id="rwcro8d1" fontsize="larger" halign="right" valign="bottom">Jürgen Moser</rend>
                   </pgHead>
                   <staffGrp xml:id="jnihqp5" bar.thru="true" symbol="brace">
                      <staffDef xml:id="P1" lines="5" n="1" ppq="2">
