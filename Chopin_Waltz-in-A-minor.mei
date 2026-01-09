@@ -118,7 +118,9 @@
                      </staffDef>
                   </staffGrp>
                </scoreDef>
-               <section xml:id="z1m03f3y">
+               <section xml:id="Waltz-in-a-minor">
+                  <expansion xml:id="expansion-default" plist="#A #B #B #C #C #D" />
+                  <expansion xml:id="expansion-minimal" plist="#A #B #C #D" />
                   <section xml:id="A">
                      <measure xml:id="nitccan" facs="#zone_01KE7Z2QJPWWQ0DH81J8V03426" metcon="false" n="0">
                         <staff xml:id="w1oyzlpo" n="1">
