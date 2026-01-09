@@ -101,9 +101,9 @@
             <score xml:id="x2ix1ps">
                <scoreDef xml:id="yn757s6">
                   <pgHead xml:id="phqw8xj1" func="first">
-                     <rend xml:id="rp2dko21" fontsize="xx-large" halign="center">Waltz in A minor<lb xml:id="lso14z41"/></rend>
-                     <rend xml:id="r6wxwbq2" fontsize="normal" halign="center">Brown Index 150</rend>
-                     <rend xml:id="rfzxpea" halign="right">Frédéric Chopin (1810–1849)</rend>
+                     <rend xml:id="rp2dko21" fontsize="xx-large" valign="top" halign="center">Waltz in A minor<lb xml:id="lso14z41"/></rend>
+                     <rend xml:id="r6wxwbq2" fontsize="normal" halign="center" valign="top">Brown Index 150</rend>
+                     <rend xml:id="rfzxpea" halign="right" valign="bottom">Frédéric Chopin (1810–1849)</rend>
                   </pgHead>
                   <staffGrp xml:id="b5u8z3j" bar.thru="true" symbol="brace">
                      <staffDef xml:id="P1" lines="5" n="1" ppq="60">
